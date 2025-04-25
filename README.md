@@ -1,2 +1,2 @@
 # myfirstc-projects-
-these is my basic c
+these is my basic c++ prjects 
